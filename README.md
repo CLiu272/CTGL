@@ -3,8 +3,8 @@
 
 #### This repository provides the source code of the following paper:
 
-Self-Supervised Graph Completion for Incomplete Multi-View Clustering:
-Cheng Liu, Si Wu, Rui Li, Dazhi Jiang, and Hau-San Wong
+Beyond Euclidean Structures: Collaborative Topological Graph Learning for Multiview Clustering
+
 
 #### Citation:
 
